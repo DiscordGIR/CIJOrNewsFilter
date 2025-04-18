@@ -1,6 +1,6 @@
 {
   "intent_cij": ["can", "could", "is there", "are there", "any", "how", "i want", "possible", "yet", "released"],
   "intent_news": ["when", "wen", "news", "eta", "estimate", "approximate", "guess", "will there", "where is", "drop", "is the", "coming soon", "how long", "will take", "any update"],
-  "verb": ["jailbreak", "jb", "uncOver", "uncover", "u0", "exploit", "taurine", "fugu", "checkrain", "checkra1n"],
-  "subject": ["ipad", "iphone", "ipod", "14", "15", "ios", "ipados"]
+  "verb": ["jailbreak", "jb", "uncOver", "uncover", "u0", "exploit", "taurine", "fugu", "checkrain", "checkra1n", "dopamine", "trollstore"],
+  "subject": ["ipad", "iphone", "ipod", "14", "15", "16", "17", "18", "19", "ios", "ipados"]
 }
